@@ -113,4 +113,24 @@ NOTE: Needs work, best I could do with the current banners :P
 /give @p minecraft:banner 1 1 {BlockEntityTag:{Patterns:[{Color:0,Pattern:"ls"},{Color:11,Pattern:"rs"}]}}
 ```
 
+## Russia
+```
+/give @p minecraft:banner 1 12 {BlockEntityTag:{Patterns:[{Color:15,Pattern:"ls"},{Color:1,Pattern:"rs"}]}}
+```
+
+## Columbia
+```
+/give @p minecraft:banner 1 4 {BlockEntityTag:{Patterns:[{Color:11,Pattern:"vh"},{Color:1,Pattern:"rs"}]}}
+```
+
+## Luxembourg
+```
+/give @p minecraft:banner 1 15 {BlockEntityTag:{Patterns:[{Color:1,Pattern:"ls"},{Color:12,Pattern:"rs"}]}}
+```
+
+## Ukraine
+```
+/give @p minecraft:banner 1 11 {BlockEntityTag:{Patterns:[{Color:12,Pattern:"vh"}]}}
+```
+
 More coming soon. If you have one that you'd like to be added, make an issue :P
